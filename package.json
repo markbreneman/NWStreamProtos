@@ -6,6 +6,6 @@
 		"nodemon": "^2.0.15"
 	},
 	"scripts": {
-		"start": "index.js"
+		"start": "/index.js"
 	}
 }
